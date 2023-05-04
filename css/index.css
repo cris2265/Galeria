@@ -1,0 +1,11 @@
+* {
+    font-size: 10px;
+    margin: auto;
+    padding: 0;
+}
+html {
+    width: 42.8rem;
+    height: 92.6rem;
+    background-color: rgb(179, 179, 179);
+    font-family: 'Inter', sans-serif;
+}
